@@ -1,0 +1,40 @@
+
+.men {
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 1em 4em 0 0;
+	position: absolute;
+	width: 95%;
+}
+a {
+	text-decoration: none;
+}
+li {
+	list-style: none;
+}
+.d_boton {
+	margin: 0 1em;
+}
+.btn {
+	padding: 0.6em 1.5em;
+}
+.contorno {
+	border-top: 2px solid #3498db;
+ 	border-right: 2px solid #3498db;
+  	border-bottom: 2px solid #3498db;
+  	border-left: 2px solid #3498db;
+  	color: #3498db;
+}
+.contorno:hover {
+	background: #3498db;
+	color: #ffffff;
+}
+.entero{
+	background: #3498db;
+	color: #ffffff;
+	border-top: 2px solid #3498db;
+ 	border-right: 2px solid #3498db;
+  	border-bottom: 2px solid #3498db;
+  	border-left: 2px solid #3498db;
+}
